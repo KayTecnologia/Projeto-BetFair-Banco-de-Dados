@@ -3,9 +3,6 @@
 Projeto acadêmico desenvolvido em Java para praticar conceitos de POO e arquitetura MVC.
 O sistema simula uma plataforma de apostas esportivas, com cadastro e gerenciamento de usuários, eventos, apostas e carteiras virtuais.
 
-EQUIPE DO PROJETO:
-Kayky Breno Paulino da Silva, Gabryel dos Santos Silva, José Guilherme Araújo do Nascimento, Luiz Simeone Carneiro Corrêa, Monica dos Santos Moura, Jefferson Rodrigo da Silva.
-
 🚀 Funcionalidades
 
 Cadastro, atualização, pesquisa e remoção (CRUD) de entidades
